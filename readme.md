@@ -1,11 +1,11 @@
 <div align=center> 
 <img title="a title" alt="Alt text" src="nativess.png" height="350" /></div>
 
-<h1 align=center> Native. Unblocked games site template </h1>
+<h1 align=center> Native. site template </h1>
 
 ### Introduction:
 
-This repository provides a simple template for creating unblocked games sites. The template includes basic HTML, CSS, and JavaScript files that you can customize according to your preferences.
+This repository provides a simple template for creating sites. The template includes basic HTML, CSS, and JavaScript files that you can customize according to your preferences.
 
 ### Getting Started:
 
